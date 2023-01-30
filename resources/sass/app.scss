@@ -1,0 +1,11 @@
+//
+@use 'bootstrap';
+body {
+    height: 100vh;
+    header,
+    footer {
+        height: 10vh;
+        background-color: black;
+        color: white;
+    }
+}
